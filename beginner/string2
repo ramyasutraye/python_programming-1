@@ -1,0 +1,4 @@
+a="programmer"
+print(a.count('r'))
+print(a.replace('g','m'))
+print(a.replace('m','y'))
